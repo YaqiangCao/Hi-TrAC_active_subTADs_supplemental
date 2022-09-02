@@ -11,4 +11,4 @@ scikit-learn==0.23.2
 tensorflow==1.10.0 
 ```
 
-If the model.h5 has been generated, please do not run the whole code again, as the training will continue with the saved model and will lead to different feature importances. Just delete the model.h5 and re-run the code.  
+If the file of model.h5 has been generated, please do not run the whole code again, as the training will continue with the saved model and will lead to different feature importances. Just delete the model.h5 and re-run the code.  
